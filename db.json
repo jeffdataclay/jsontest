@@ -2,31 +2,26 @@
     {
         "title": "THE",
         "render-status": "done",
-        "id": "temp1",
         "ID": "temp1"
     },
     {
         "title": "QUICK",
         "render-status": "done",
-        "id": "temp2",
         "ID": "temp2"
     },
     {
         "title": "BROWN",
         "render-status": "done",
-        "id": "temp3",
         "ID": "temp3"
     },
     {
         "title": "FOX",
         "render-status": "done",
-        "id": "temp4",
         "ID": "temp4"
     },
     {
         "title": "JUMPS",
         "render-status": "done",
-        "id": "temp5",
         "ID": "temp5"
     }
 ]
